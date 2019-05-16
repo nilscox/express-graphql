@@ -1,0 +1,2 @@
+This is an implementation of the examples from [https://www.howtographql.com](https://www.howtographql.com/basics/2-core-concepts/).
+It demonstrates how to create a minimalist [express](http://expressjs.com/) app supporting [graphql](https://graphql.org/) using [apollo-server](https://github.com/apollographql/apollo-server).
